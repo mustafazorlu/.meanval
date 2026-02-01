@@ -101,7 +101,7 @@ export function FeatureProposals() {
     <section className="py-20 bg-white">
       <div className="container mx-auto px-6">
         <div className="flex flex-col lg:flex-row items-center gap-16">
-          <div className="flex-1 order-2 lg:order-1">
+          <div className="flex-1 w-full order-2 lg:order-1">
             <div className="bg-emerald-50 rounded-xl p-8 border border-emerald-100 shadow-sm aspect-[4/3] flex items-center justify-center relative">
               <div className="w-3/4 bg-white rounded shadow-lg p-6 space-y-4">
                 <div className="h-4 bg-gray-100 rounded w-1/3"></div>
@@ -174,7 +174,7 @@ export function FeatureCRM() {
               </span>
             </a>
           </div>
-          <div className="flex-1">
+          <div className="flex-1 w-full">
             <div className="bg-amber-50 rounded-xl p-8 border border-amber-100 shadow-sm aspect-[4/3] flex items-center justify-center">
               <div className="w-3/4 bg-white rounded shadow-lg p-6">
                 <div className="flex items-center gap-4 mb-6">
@@ -202,7 +202,7 @@ export function FeatureContracts() {
     <section className="py-20 bg-white">
       <div className="container mx-auto px-6">
         <div className="flex flex-col lg:flex-row items-center gap-16">
-          <div className="flex-1 order-2 lg:order-1">
+          <div className="flex-1 w-full order-2 lg:order-1">
             <div className="bg-blue-50 rounded-xl p-8 border border-blue-100 shadow-sm aspect-[4/3] flex items-center justify-center">
               <div className="w-3/4 bg-white rounded shadow-lg p-8">
                 <div className="border-b-2 border-gray-100 pb-4 mb-4">

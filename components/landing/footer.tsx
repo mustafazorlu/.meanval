@@ -21,7 +21,7 @@ export function CTA() {
           </Link>
         </div>
         <div className="hidden md:flex gap-8">
-          <div className="bg-white p-6 rounded-xl shadow-sm rotate-3">
+          <div className="bg-white p-6 rounded-xl shadow-sm rotate-3 max-h-fit">
             <FileSpreadsheet className="w-8 h-8 text-primary-800" />
           </div>
           <div className="bg-white p-6 rounded-xl shadow-sm -rotate-3 mt-8">
